@@ -5,5 +5,10 @@ public class NewTwoDaya {
         if (a == 0){
             System.out.println("滴滴滴多");
         }
+
+        while (true){
+            a++;
+            System.out.println(a);
+        }
     }
 }
